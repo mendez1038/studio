@@ -7,9 +7,9 @@ import { Projects } from "@/components/landing/projects";
 
 export default function Home() {
   return (
-    <div className="flex min-h-[100dvh] flex-col bg-background">
-      <Header />
-      <main className="flex-1">
+    <div className="flex min-h-[100dvh] flex-col bg-background items-center">
+      {/* <Header /> */}
+      <main className="flex-1 w-full">
         <Hero />
         <About />
         <Projects />

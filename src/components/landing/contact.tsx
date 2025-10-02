@@ -16,12 +16,12 @@ export function Contact() {
         </div>
         <div className="mt-8 flex flex-wrap justify-center gap-4">
           <Button asChild size="lg" variant="outline" className="bg-background">
-            <a href="mailto:david.mendez.martinez@email.com">
-              <Mail className="mr-2 h-4 w-4" /> david.mendez.martinez@email.com
+            <a href="mailto:dmendez1038@gmail.com">
+              <Mail className="mr-2 h-4 w-4" /> dmendez1038@gmail.com
             </a>
           </Button>
           <Button asChild size="lg" variant="outline" className="bg-background">
-            <a href="https://linkedin.com/in/tu-usuario-linkedin" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/david-mendez-martinz/" target="_blank" rel="noopener noreferrer">
               <Linkedin className="mr-2 h-4 w-4" /> LinkedIn
             </a>
           </Button>
