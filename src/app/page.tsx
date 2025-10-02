@@ -11,8 +11,8 @@ export default function Home() {
       {/* <Header /> */}
       <main className="flex-1 w-full">
         <Hero />
-        <About />
         <Projects />
+        <About />
         <Contact />
       </main>
       <Footer />

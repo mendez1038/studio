@@ -8,7 +8,7 @@ export function Hero() {
         <div className="mx-auto max-w-3xl text-center space-y-6">
           <div className="space-y-4">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl font-headline text-foreground">
-              Hola, soy David Méndez. Desarrollador Web.
+              David Méndez Martínez. Desarrollador Web.
             </h1>
             <p className="text-lg text-foreground/80 md:text-xl">
               Transformo ideas en webs funcionales, atractivas y optimizadas que generan resultados. Especialista en WordPress, PrestaShop y desarrollo a medida.
