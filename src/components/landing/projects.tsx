@@ -30,7 +30,7 @@ export function Projects() {
                         alt={project.alt}
                         width={800}
                         height={600}
-                        className="object-cover w-full h-full"
+                        className="object-cover w-full h-full object-top"
                         data-ai-hint={project.image.imageHint}
                     />
                 </div>
