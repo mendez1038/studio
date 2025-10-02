@@ -22,7 +22,7 @@ export function Projects() {
         </div>
         <div className="grid gap-8 mt-12 sm:grid-cols-1 md:grid-cols-2">
           {projectsData.map((project) => (
-            <Card key={project.id} className="overflow-hidden flex flex-col group transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
+            <Card key={project.id} className="overflow-hidden flex flex-col group">
               {project.image && (
                 <div className="aspect-video overflow-hidden">
                     <Image
@@ -30,7 +30,7 @@ export function Projects() {
                         alt={project.alt}
                         width={800}
                         height={600}
-                        className="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+                        className="object-cover w-full h-full"
                         data-ai-hint={project.image.imageHint}
                     />
                 </div>
@@ -48,8 +48,8 @@ export function Projects() {
               </CardContent>
               <CardFooter>
                 <Button asChild variant="link" className="px-0">
-                  <Link href={project.link}>
-                    Ver Proyecto en Vivo <ArrowRight className="ml-2 h-4 w-4" />
+                  <Link href={project.link} target="_blank" rel="noopener noreferrer">
+                    Ver Web <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
               </CardFooter>
