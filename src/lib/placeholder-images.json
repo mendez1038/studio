@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "galtlantic",
+      "description": "Galtlantic project screenshot",
+      "imageUrl": "https://images.unsplash.com/photo-1633365087123-b3f2c305769a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb3Jwb3JhdGUlMjB3ZWJzaXRlfGVufDB8fHx8MTc1OTM0NTY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corporate website"
+    },
+    {
+      "id": "gr-100",
+      "description": "GR-100 project screenshot",
+      "imageUrl": "https://images.unsplash.com/photo-1644926054948-8c1155eeb0e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxldmVudCUyMHBsYXRmb3JtfGVufDB8fHx8MTc1OTQxODUzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event platform"
+    },
+    {
+      "id": "toycosur",
+      "description": "Toycosur project screenshot",
+      "imageUrl": "https://images.unsplash.com/photo-1688561807440-8a57dfa77ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBzdG9yZXxlbnwwfHx8fDE3NTkzMzEwNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce store"
+    },
+    {
+      "id": "elia-spa",
+      "description": "Elia Spa project screenshot",
+      "imageUrl": "https://images.unsplash.com/photo-1594322436404-5a0526db4d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsYW5kaW5nJTIwcGFnZXxlbnwwfHx8fDE3NTk0MTg1Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "landing page"
+    }
+  ]
 }
