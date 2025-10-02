@@ -1,12 +1,12 @@
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Code, ShoppingCart, Wordpress } from "lucide-react";
+import { Code, Globe, Cog } from "lucide-react";
 
 const skills = [
   {
     category: "CMS y E-commerce",
     details: "WordPress (Divi, GeneratePress, Child Theming), PrestaShop.",
-    icon: <Wordpress className="h-6 w-6" />
+    icon: <Globe className="h-6 w-6" />
   },
   {
     category: "Desarrollo Frontend",
@@ -16,7 +16,7 @@ const skills = [
   {
     category: "Metodología",
     details: "Enfoque en la experiencia de usuario (UX), optimización de rendimiento (WPO) y buenas prácticas SEO.",
-    icon: <ShoppingCart className="h-6 w-6" />
+    icon: <Cog className="h-6 w-6" />
   }
 ];
 
