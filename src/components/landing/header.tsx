@@ -49,7 +49,7 @@ export function Header() {
         scrolled ? 'border-b border-border/40 bg-background/95 backdrop-blur-sm' : 'bg-transparent'
       )}
     >
-      <div className="container flex h-16 items-center">
+      <div className="container flex h-16 items-center mx-auto">
         <Link href="#home" className="mr-6 flex items-center gap-2">
           <Code className="h-6 w-6 text-accent" />
           <span className="font-bold font-headline">DevFolio Pro</span>

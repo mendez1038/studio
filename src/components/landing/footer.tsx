@@ -4,7 +4,7 @@ import Link from "next/link";
 export function Footer() {
   return (
     <footer className="w-full border-t">
-      <div className="container flex items-center justify-between h-16 px-4 md:px-6">
+      <div className="container flex items-center justify-between h-16 px-4 md:px-6 mx-auto">
         <div className="flex items-center gap-2">
            <p className="text-sm text-muted-foreground">
              David Méndez Martínez © {new Date().getFullYear()} | Desarrollador Web

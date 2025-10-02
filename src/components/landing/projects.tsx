@@ -8,12 +8,12 @@ import { ArrowRight } from "lucide-react";
 
 export function Projects() {
   return (
-    <section id="projects" className="w-full py-16 md:py-24">
-      <div className="container px-4 md:px-6">
+    <section id="projects" className="w-full py-16 md:py-24 bg-secondary">
+      <div className="container px-4 md:px-6 mx-auto">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl font-headline">
-              Proyectos Destacados
+              Webs Destacadas
             </h2>
             <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               Aquí tienes una selección de mis trabajos más recientes. Cada proyecto fue un reto único donde apliqué diferentes tecnologías para cumplir los objetivos del cliente.

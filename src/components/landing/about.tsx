@@ -22,8 +22,8 @@ const skills = [
 
 export function About() {
   return (
-    <section id="about" className="w-full py-16 md:py-24 bg-secondary">
-      <div className="container px-4 md:px-6">
+    <section id="about" className="w-full py-16 md:py-24">
+      <div className="container px-4 md:px-6 mx-auto">
         <div className="grid gap-10 lg:grid-cols-5">
           <div className="space-y-4 lg:col-span-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl font-headline">
