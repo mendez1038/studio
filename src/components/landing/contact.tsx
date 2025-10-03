@@ -5,7 +5,7 @@ import { Download, Linkedin, Mail } from "lucide-react";
 export function Contact() {
   return (
     <section id="contact" className="w-full py-16 md:py-24 bg-secondary">
-      <div className="container text-center mx-auto">
+      <div className="container text-center px-4 md:px-6 mx-auto">
         <div className="max-w-xl mx-auto">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl font-headline">
             ¿Hablamos? Estoy listo para mi próximo reto profesional.
