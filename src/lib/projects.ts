@@ -12,12 +12,12 @@ export const projectsData = [
     },
     {
         id: "gr-100",
-        title: "GR-100 - Plataforma de Eventos",
-        description: "Creación de un sitio web visualmente impactante para una empresa de organización de eventos. Se implementó con WordPress y el constructor Divi, permitiendo una gestión de contenidos muy visual y sencilla para el cliente final.",
+        title: "GR-100 - Tienda Online (E-commerce)",
+        description: "Creación de un sitio web visualmente impactante para una tiende de bicicletas. Se implementó con WordPress y el constructor Divi, permitiendo una gestión de contenidos muy visual y sencilla para el cliente final.",
         technologies: ["WordPress", "Divi Builder", "CSS Personalizado"],
         link: "https://gr-100.com/",
         image: PlaceHolderImages.find(img => img.id === 'gr-100'),
-        alt: "Página de la plataforma de eventos GR-100, creada con WordPress y Divi por David Méndez."
+        alt: "Página de la tienda de bicicletas GR-100, creada con WordPress y Divi por David Méndez."
     },
     {
         id: "toycosur",
@@ -30,11 +30,11 @@ export const projectsData = [
     },
     {
         id: "elia-spa",
-        title: "Elia Spa - Landing Page a Medida",
-        description: "Desarrollo de una landing page estática desde cero con HTML, CSS y JavaScript puro. El objetivo era conseguir un diseño elegante, totalmente responsive y con un rendimiento de carga casi instantáneo, ideal para campañas de marketing.",
+        title: "Elia Spa - Desarrollo a Medida",
+        description: "Desarrollo de una web desde cero con HTML, CSS y JavaScript puro. El objetivo era conseguir un diseño elegante, totalmente responsive y con un rendimiento de carga casi instantáneo, ideal para campañas de marketing.",
         technologies: ["HTML5", "CSS3", "JavaScript", "Mobile-First"],
         link: "https://www.elyaspa.com/",
         image: PlaceHolderImages.find(img => img.id === 'elia-spa'),
-        alt: "Landing page para Elia Spa, desarrollada a medida con HTML, CSS y JS por David Méndez."
+        alt: "Web para Elia Spa, desarrollada a medida con HTML, CSS y JS por David Méndez."
     }
 ]
