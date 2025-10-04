@@ -12,7 +12,7 @@ import { ArrowRight, Book, FileText } from "lucide-react";
 const specialties = ["Todos", ...Array.from(new Set(coursesData.map(c => c.specialty)))];
 
 export function Courses() {
-  const [filter, setFilter] = useState("Todos");
+  const [filter, setFilter] = useState("Desarrollo Web");
 
   const filteredCourses = filter === "Todos" 
     ? coursesData 
