@@ -19,7 +19,7 @@ export function Courses() {
     : coursesData.filter(course => course.specialty === filter);
 
   return (
-    <section id="courses" className="w-full py-16 md:py-24">
+    <section id="courses" className="w-full py-16 md:py-24 bg-secondary">
       <div className="container px-4 md:px-6 mx-auto">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-2">
@@ -27,7 +27,7 @@ export function Courses() {
               Formación y Cursos
             </h2>
             <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Mi ruta de aprendizaje continuo en desarrollo, diseño y marketing.
+              Mi ruta de aprendizaje continuo con formaciones reguladas y de forma autodidacta.
             </p>
           </div>
           <div className="flex flex-wrap justify-center gap-2">
@@ -78,6 +78,13 @@ export function Courses() {
                 {course.projectUrl && (
                     <Button asChild variant="link" className="px-0">
                         <Link href={course.projectUrl} target="_blank" rel="noopener noreferrer">
+                           <Book className="mr-2"/> Ver Proyecto
+                        </Link>
+                    </Button>
+                )}
+                {course.projectUrl2 && (
+                    <Button asChild variant="link" className="px-0">
+                        <Link href={course.projectUrl2} target="_blank" rel="noopener noreferrer">
                            <Book className="mr-2"/> Ver Proyecto
                         </Link>
                     </Button>

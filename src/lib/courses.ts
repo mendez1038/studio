@@ -6,81 +6,81 @@ export interface Course {
     entity: string;
     duration: number;
     year: number;
-    specialty: 'Desarrollo Web' | 'Marketing Digital' | 'Diseño';
+    specialty: 'Desarrollo Web' | 'Análisis de Datos' | 'Desarrollo Multimedia' | 'SEO' | 'IA' | 'Logística' | 'General';
     certificateUrl?: string;
     projectUrl?: string;
+    projectUrl2?: string;
     image?: ImagePlaceholder;
     alt: string;
 }
 
 export const coursesData: Course[] = [
     {
-        id: "nextjs-course",
-        title: "Next.js: El framework de React para producción",
+        id: "data-analyst-course",
+        title: "Tu primera experiencia como analista de datos",
+        entity: "DS4B",
+        duration: 6,
+        year: 2025,
+        specialty: "Análisis de Datos",
+        certificateUrl: "/Certificados/tu-primera-experiencia-como-analista-de-datos.pdf",
+        projectUrl: "https://drive.google.com/drive/folders/1KWWRKLa-Lmi_NUChJlrTOG7QxAq8wbh1?usp=sharing",
+        image: PlaceHolderImages.find(img => img.id === 'course-ad'),
+        alt: "Certificado del curso de Tu primera experiencia como analista de datos de DS4B"
+    },
+    {
+        id: "chatgpt",
+        title: "Curso CHATGPT by Upo Technology",
         entity: "Udemy",
-        duration: 25,
+        duration: 3.5,
         year: 2024,
-        specialty: "Desarrollo Web",
-        certificateUrl: "/cursos/nextjs.pdf",
-        projectUrl: "https://github.com/mendez1038/devtalles-nextjs-14",
-        image: PlaceHolderImages.find(img => img.id === 'course-nextjs'),
-        alt: "Certificado del curso de Next.js de Udemy"
+        specialty: "IA",
+        certificateUrl: "/Certificados/ChatGPT.pdf",
+        image: PlaceHolderImages.find(img => img.id === 'course-chatgpt'),
+        alt: "Certificado del curso de IA con ChatGPT de Upo Technology"
     },
     {
-        id: "prestashop-modules",
-        title: "PrestaShop 8- Creación de Módulos",
-        entity: "Udemy",
-        duration: 10,
-        year: 2024,
+        id: "daw",
+        title: "Ciclo Superior de Desarrollo de Aplicaciones Web",
+        entity: "IES Val do Asma",
+        duration: 2000,
+        year: 2020,
         specialty: "Desarrollo Web",
-        certificateUrl: "/cursos/prestashop-modules.pdf",
-        image: PlaceHolderImages.find(img => img.id === 'course-prestashop'),
-        alt: "Certificado del curso de creación de módulos en PrestaShop"
+        projectUrl: "https://github.com/mendez1038/HPRWeb",
+        projectUrl2: "https://github.com/mendez1038/HPRWebJS.git",
+        image: PlaceHolderImages.find(img => img.id === 'daw'),
+        alt: "Certificado del Ciclo Superior de Desarrollo de Aplicaciones Web"
     },
     {
-        id: "react-course",
-        title: "React: De cero a experto",
-        entity: "Udemy",
-        duration: 54,
-        year: 2023,
-        specialty: "Desarrollo Web",
-        certificateUrl: "/cursos/react-cero-experto.pdf",
-        projectUrl: "https://github.com/mendez1038/devtalles-react",
-        image: PlaceHolderImages.find(img => img.id === 'course-react'),
-        alt: "Certificado del curso de React de cero a experto"
-    },
-    {
-        id: "web-dev-bootcamp",
-        title: "The Web Developer Bootcamp 2023",
-        entity: "Udemy",
-        duration: 63,
-        year: 2023,
-        specialty: "Desarrollo Web",
-        certificateUrl: "/cursos/web-developer-bootcamp.pdf",
-        projectUrl: "https://github.com/mendez1038/colt-steele-bootcamp",
-        image: PlaceHolderImages.find(img => img.id === 'course-bootcamp'),
-        alt: "Certificado de The Web Developer Bootcamp 2023"
-    },
-    {
-        id: "sm-specialist",
-        title: "Especialista en Social Media",
-        entity: "Tamarino Web & Marketing",
-        duration: 300,
+        id: "dam",
+        title: "Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma",
+        entity: "Campus Politecnico Aceimar",
+        duration: 2000,
         year: 2022,
-        specialty: "Marketing Digital",
-        certificateUrl: "/cursos/especialista-social-media.pdf",
-        image: PlaceHolderImages.find(img => img.id === 'course-social-media'),
-        alt: "Certificado de Especialista en Social Media"
+        specialty: "Desarrollo Multimedia",
+        projectUrl: "https://github.com/mendez1038/PFC",
+        image: PlaceHolderImages.find(img => img.id === 'dam'),
+        alt: "Certificado del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma"
     },
     {
-        id: "web-design-master",
-        title: "Máster en Diseño Web",
-        entity: "Tamarino Web & Marketing",
-        duration: 600,
+        id: "ia development",
+        title: "Desarrollo con IA",
+        entity: "BigSchool",
+        duration: 4.5,
+        year: 2025,
+        specialty: "Desarrollo Web",
+        projectUrl: "https://studio--studio-5778713093-90171.us-central1.hosted.app/",
+        image: PlaceHolderImages.find(img => img.id === 'ia'),
+        alt: "Certificado de Desarrollador con IA"
+    },
+    {
+        id: "master php",
+        title: "Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +",
+        entity: "Udemy",
+        duration: 56,
         year: 2021,
-        specialty: "Diseño",
-        certificateUrl: "/cursos/master-diseno-web.pdf",
-        image: PlaceHolderImages.find(img => img.id === 'course-design-master'),
-        alt: "Certificado de Máster en Diseño Web"
+        specialty: "Desarrollo Web",
+        projectUrl: "https://github.com/mendez1038/draftMartinezApp.git",
+        image: PlaceHolderImages.find(img => img.id === 'course-php-master'),
+        alt: "Certificado de Máster en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +"
     }
 ];

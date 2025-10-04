@@ -32,6 +32,7 @@ export function Projects() {
                         height={600}
                         className="object-cover w-full h-full object-top"
                         data-ai-hint={project.image.imageHint}
+                        priority={true} 
                     />
                 </div>
               )}
