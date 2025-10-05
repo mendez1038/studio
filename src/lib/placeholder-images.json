@@ -173,6 +173,12 @@
       "description": "Reparación de Carrocerías de Vehículos, Barcos y Aeronaves",
       "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "classroom course"
+    },
+    {
+      "id": "dv",
+      "description": "Data Visualization Course",
+      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data analysis course"
     }
 
     

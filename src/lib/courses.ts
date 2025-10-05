@@ -167,7 +167,7 @@ export const coursesData: Course[] = [
         duration: 8,
         year: 2023,
         specialty: "Desarrollo Multimedia",
-        certificateUrl: "/WF.pdf",
+        certificateUrl: "/Certificados/WF.pdf",
         image: PlaceHolderImages.find(img => img.id === 'cd'),
         alt: "Certificado de Codemotion Online Conference 2023"
     },
@@ -281,5 +281,16 @@ export const coursesData: Course[] = [
         specialty: "General",
         image: PlaceHolderImages.find(img => img.id === 'rcvba'),
         alt: "Certificado de Reparación de Carrocerías de Vehículos, Barcos y Aeronaves"
+    },
+    {
+        id: "dv",
+        title: "Data Visualization Course",
+        entity: "Kaggle",
+        duration: 4,
+        year: 2025,
+        specialty: "Análisis de Datos",
+        certificateUrl: "/Certificados/dmendez_3 - Data Visualization.png",
+        image: PlaceHolderImages.find(img => img.id === 'dv'),
+        alt: "Certificado de Data Visualization"
     }
 ];
