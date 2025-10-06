@@ -68,7 +68,7 @@ export const coursesData: Course[] = [
         duration: 4.5,
         year: 2025,
         specialty: "Desarrollo Web",
-        projectUrl: "https://studio--studio-5778713093-90171.us-central1.hosted.app/",
+        projectUrl: "https://david-mendez.com/",
         image: PlaceHolderImages.find(img => img.id === 'ia'),
         alt: "Certificado de Desarrollador con IA"
     },

@@ -27,160 +27,158 @@
     {
       "id": "course-ad",
       "description": "Tu primera experiencia como analista de datos course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1755541516479-bc12a9edcca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MXwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTk0Njk5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhJTIwYW5hbHlzaXN8ZW58MHx8fHwxNzU5NzQxMDU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data analysis"
     },
     {
       "id": "course-chatgpt",
       "description": "ChatGPT course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "mobile development"
+      "imageUrl": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc1OTcyMjIzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artificial intelligence"
     },
     {
       "id": "daw",
       "description": "DAW course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2ViJTIwZGVzaWdufGVufDB8fHx8MTc1OTUwNzQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "code lines"
+      "imageUrl": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE3NTk3MTg0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web development"
     },
     {
       "id": "dam",
       "description": "DAM course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcHAlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE3NTk3ODM4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app development"
     },
     {
       "id": "ia",
       "description": "IA course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1561347981-969c80cf4463?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwY291cnNlfGVufDB8fHx8MTc1OTUyNjY0OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "code media"
+      "imageUrl": "https://images.unsplash.com/photo-1725069625011-bde91dc663af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhaSUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc1OTc4NDU3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ai development"
     },
     {
       "id": "course-php-master",
       "description": "PHP master placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2ViJTIwZGVzaWdufGVufDB8fHx8MTc1OTUwNzQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "web development"
+      "imageUrl": "https://images.unsplash.com/photo-1558717738-0b9fbb9b0b21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3ZWIlMjBjb2RlfGVufDB8fHx8MTc1OTc3MjQ2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web code"
     },
     {
       "id": "adbn1",
       "description": "Curso de Analista de Datos en Baloncesto Nivel 1 course placeholder",
-      "imageUrl": "/ANALYTICS-1.jpg",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1742487121937-e9b0b8b85937?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzcG9ydHMlMjBhbmFseXRpY3N8ZW58MHx8fHwxNzU5Nzg0NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports analytics"
     },
     {
       "id": "adbn2",
       "description": "Curso de Analista de Datos en Baloncesto Nivel 2 course placeholder",
-      "imageUrl": "/Analista-de-datos-N2-1.jpg",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1587166305775-e6f2b4a5ce6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYXNrZXRiYWxsJTIwc3RhdHN8ZW58MHx8fHwxNzU5Nzg0NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "basketball stats"
     },
     {
       "id": "adbn3",
       "description": "Curso de Analista de Datos en Baloncesto Nivel 3 course placeholder",
-      "imageUrl": "/Curso-de-Analista-de-Datos-en-Baloncesto-de-Nivel-3.webp",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1744782211816-c5224434614f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXRhJTIwY2hhcnRzfGVufDB8fHx8MTc1OTY2MzY5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data charts"
     },
     {
       "id": "damobile",
       "description": "Mobile Apps course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "mobile development"
+      "imageUrl": "https://images.unsplash.com/photo-1593789198788-8b21805d5fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2JpbGUlMjBhcHBzfGVufDB8fHx8MTc1OTc1NTM2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile apps"
     },
     {
       "id": "wordpress",
       "description": "Wordpress course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2ViJTIwZGVzaWdufGVufDB8fHx8MTc1OTUwNzQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "web development"
+      "imageUrl": "https://images.unsplash.com/photo-1586856635346-78823330b49f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b3JkcHJlc3MlMjBjbXN8ZW58MHx8fHwxNzU5Nzg0NTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wordpress cms"
     },
     {
       "id": "mapping",
       "description": "Mapping course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2ViJTIwZGVzaWdufGVufDB8fHx8MTc1OTUwNzQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "web development"
+      "imageUrl": "https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3ZWIlMjBkZXNpZ258ZW58MHx8fHwxNzU5NzMzMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web design"
     },
     {
       "id": "seo",
       "description": "Curso de SEO, SEO Técnico y Palabras Clave para principiantes course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1755541516479-bc12a9edcca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MXwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTk0Njk5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "seo course"
+      "imageUrl": "https://images.unsplash.com/photo-1686061594183-8c864f508b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZW8lMjBvcHRpbWl6YXRpb258ZW58MHx8fHwxNzU5Nzg0NTc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "seo optimization"
     },
     {
       "id": "cd",
       "description": "Codemotion Online Conference 2023 placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "mobile development"
+      "imageUrl": "https://images.unsplash.com/photo-1600320261634-78edd477fa1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVjaCUyMGNvbmZlcmVuY2V8ZW58MHx8fHwxNzU5NzQwMDg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech conference"
     },
     {
       "id": "w3",
       "description": "HTML5, CSS3, JavaScript, SASS, SQL y Accesibilidad by W3Schools placeholder",
       "imageUrl": "/w3.png",
-      "imageHint": "web development"
+      "imageHint": "web standards"
     },
     {
       "id": "bd",
       "description": "Introducción al Big Data placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiaWclMjBkYXRhfGVufDB8fHx8MTc1OTc4NDU3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "big data"
     },
     {
       "id": "mpl",
       "description": "Matplotlib Crash Course placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1690683790356-c1edb75e3df7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxweXRob24lMjBwcm9ncmFtbWluZ3xlbnwwfHx8fDE3NTk3ODQ1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "python programming"
     },
     {
       "id": "gl",
       "description": "Gestión Logística placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "logistica course"
+      "imageUrl": "https://images.unsplash.com/photo-1553413077-190dd305871c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsb2dpc3RpY3MlMjB3YXJlaG91c2V8ZW58MHx8fHwxNzU5NzMwMjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logistics warehouse"
     },
     {
       "id": "cc",
       "description": "Curso de Prevención y Manejo de Carretilla Elevadora Frontal",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "logistica course"
+      "imageUrl": "https://images.unsplash.com/photo-1696416228396-d31a664f8881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmb3JrbGlmdCUyMHNhZmV0eXxlbnwwfHx8fDE3NTk3ODQ1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forklift safety"
     },
     {
       "id": "bach",
       "description": "Bachillerato placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1627556704302-624286467c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxncmFkdWF0aW9uJTIwY2FwfGVufDB8fHx8MTc1OTc3NTgxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graduation cap"
     },
     {
       "id": "eso",
       "description": "ESO placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1565022536102-f7645c84354a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzY2hvb2wlMjBib29rc3xlbnwwfHx8fDE3NTk3ODQ1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school books"
     },
     {
       "id": "ceo",
       "description": "Creacion de empresa online placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxvbmxpbmUlMjBidXNpbmVzc3xlbnwwfHx8fDE3NTk3ODQ1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online business"
     },
     {
       "id": "fesi",
       "description": "Firma electronica e seguridade en internet placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1483817101829-339b08e8d83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpbnRlcm5ldCUyMHNlY3VyaXR5fGVufDB8fHx8MTc1OTY5MjY0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "internet security"
     },
     {
       "id": "pde",
       "description": "El proceso de emprender",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1709715357519-2a84f9765e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbnRyZXByZW5ldXIlMjBzdGFydHVwfGVufDB8fHx8MTc1OTc4NDU3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "entrepreneur startup"
     },
     {
       "id": "rcvba",
       "description": "Reparación de Carrocerías de Vehículos, Barcos y Aeronaves",
-      "imageUrl": "https://images.unsplash.com/photo-1753546466496-d2d8a819f61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlY29tbWVyY2UlMjBjb3Vyc2V8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "classroom course"
+      "imageUrl": "https://images.unsplash.com/photo-1759509326921-4ac86913cc99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2ZWhpY2xlJTIwcmVwYWlyfGVufDB8fHx8MTc1OTc4NDU3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vehicle repair"
     },
     {
       "id": "dv",
       "description": "Data Visualization Course",
-      "imageUrl": "https://images.unsplash.com/photo-1642314524216-f119c635fc08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwbGluZXN8ZW58MHx8fHwxNzU5NTI2NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data analysis course"
+      "imageUrl": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTk3NjEwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
     }
-
-    
   ]
 }
