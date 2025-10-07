@@ -65,9 +65,10 @@ export const coursesData: Course[] = [
         id: "ia development",
         title: "Desarrollo con IA",
         entity: "BigSchool",
-        duration: 4.5,
+        duration: 6,
         year: 2025,
         specialty: "Desarrollo Web",
+        certificateUrl: "/Certificados/David _dmendez1038@gmail.com.pdf",
         projectUrl: "https://david-mendez.com/",
         image: PlaceHolderImages.find(img => img.id === 'ia'),
         alt: "Certificado de Desarrollador con IA"
