@@ -284,6 +284,16 @@ export const coursesData: Course[] = [
         alt: "Certificado de Reparación de Carrocerías de Vehículos, Barcos y Aeronaves"
     },
     {
+        id: "python-for-everybody",
+        title: "Python for Everybody",
+        entity: "University of Michigan",
+        duration: 40,
+        year: 2025,
+        specialty: "Análisis de Datos",
+        image: PlaceHolderImages.find(img => img.id === 'python-for-everybody'),
+        alt: "Curso de Python for Everybody"
+    },
+    {
         id: "dv",
         title: "Data Visualization Course",
         entity: "Kaggle",

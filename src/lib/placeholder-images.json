@@ -179,6 +179,12 @@
       "description": "Data Visualization Course",
       "imageUrl": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTk3NjEwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "data visualization"
+    },
+    {
+      "id": "python-for-everybody",
+      "description": "Python for Everybody course placeholder",
+      "imageUrl": "https://picsum.photos/seed/101/600/400",
+      "imageHint": "python code"
     }
   ]
 }
