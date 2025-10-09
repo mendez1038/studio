@@ -68,7 +68,7 @@ export const coursesData: Course[] = [
         duration: 6,
         year: 2025,
         specialty: "Desarrollo Web",
-        certificateUrl: "/Certificados/David _dmendez1038@gmail.com.pdf",
+        certificateUrl: "/Certificados/David.pdf",
         projectUrl: "https://david-mendez.com/",
         image: PlaceHolderImages.find(img => img.id === 'ia'),
         alt: "Certificado de Desarrollador con IA"
