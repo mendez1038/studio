@@ -209,6 +209,7 @@ export const coursesData: Course[] = [
         entity: "Integral Sur",
         duration: 150,
         year: 2025,
+        certificateUrl: "/Certificados/3483_DiplomaOcu2024.pdf",
         specialty: "Logística",
         image: PlaceHolderImages.find(img => img.id === 'gl'),
         alt: "Certificado de Gestión Logística"
